@@ -1,0 +1,1 @@
+export { SpannerlyIcon } from './SpannerlyIcon';
